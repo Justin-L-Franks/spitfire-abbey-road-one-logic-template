@@ -36,6 +36,7 @@ So, for the low string longs, it is _Low strings longs ==> Strings longs ==> Str
 
 ### Bussing ###
 
+#### Instrument Stacks ####
 __Bus 10:__ Full orchestra
 
 __Bus 20:__ Strings
@@ -48,22 +49,24 @@ __Bus 50:__ Percussion
 
 __Bus 250:__ Full Mix
 
+#### Instruments ####
 __Busses X1-X4:__ Articulation type(s).
 
-   __Bus X1:__ Longs (for Percussion: Drums)
+__Bus X1:__ Longs (for Percussion: Drums)
     
-   __Bus X2:__ Shorts (for Percussion: Metals)
+__Bus X2:__ Shorts (for Percussion: Metals)
     
-   __Bus X3:__ Swells (for Strings: Pizzicato & Tremolo, and for Percussion: Tuned)
+__Bus X3:__ Swells (for Strings: Pizzicato & Tremolo, and for Percussion: Tuned)
     
-   __Bus X4:__ unused
+__Bus X4:__ unused
 
 _(Bus 11 for Full Orchestra Longs, Bus 42 for Woods Shorts, Bus 53 for Tuned Percussion, etc.)_
 
+#### Submixes and Effects ####
 __Busses X5-X9:__ Effects sends
 
-   __Bus X5:__ Reverb
+__Bus X5:__ Reverb
 
-   __Busses X6-X9:__ unused
+__Busses X6-X9:__ unused
 
 _(Bus 25 for Strings Reverb, Bus 35 for Brass Reverb, and so forth. You can use the X6-X9 busses for any additional effects sends for each track stack.)_
