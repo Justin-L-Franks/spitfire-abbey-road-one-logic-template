@@ -11,9 +11,13 @@ ___IMPORTANT:__ All of the instances of the AR1 plugin in this template are load
 Each category of instruments (Full orchestra, Strings, Brass, Woodwinds, and Percussion) has its own track stack, with three busses for different types of articulation:
 
 __Full orchestra:__ Longs, shorts, swells 
+
 __Strings:__ Longs, shorts, pizzicato + tremolo
+
 __Brass:__ Longs, shorts, swells
+
 __Woods:__ Longs, shorts, swells
+
 __Percussion:__ Drums, metals, tuned
 
 Each section available in the library (high strings, horns, low woods, etc.) has three tracks, corresponding to each of those busses. Percussion has individual tracks for each instrument (bass drum, suspended cymbals, glockenspiel, etc.).
@@ -33,22 +37,33 @@ So, for the low string longs, it is _Low strings longs ==> Strings longs ==> Str
 ### Bussing ###
 
 __Bus 10:__ Full orchestra
+
 __Bus 20:__ Strings
+
 __Bus 30:__ Brass
+
 __Bus 40:__ Woodwinds
+
 __Bus 50:__ Percussion
+
 __Bus 250:__ Full Mix
 
 __Busses X1-X4:__ Articulation type(s).
-    __Bus X1:__ Longs (for Percussion: Drums)
-    __Bus X2:__ Shorts (for Percussion: Metals)
-    __Bus X3:__ Swells (for Strings: Pizzicato & Tremolo, and for Percussion: Tuned)
-    __Bus X4:__ unused
+
+   __Bus X1:__ Longs (for Percussion: Drums)
+    
+   __Bus X2:__ Shorts (for Percussion: Metals)
+    
+   __Bus X3:__ Swells (for Strings: Pizzicato & Tremolo, and for Percussion: Tuned)
+    
+   __Bus X4:__ unused
 
 _(Bus 11 for Full Orchestra Longs, Bus 42 for Woods Shorts, Bus 53 for Tuned Percussion, etc.)_
 
 __Busses X5-X9:__ Effects sends
-    __Bus X5:__ Reverb
-    __Busses X6-X9:__ unused
+
+   __Bus X5:__ Reverb
+
+   __Busses X6-X9:__ unused
 
 _(Bus 25 for Strings Reverb, Bus 35 for Brass Reverb, and so forth. You can use the X6-X9 busses for any additional effects sends for each track stack.)_
