@@ -6,7 +6,7 @@ Copyright (c) 2021 by Justin L. Franks (justin.franks@gmail.com). Licensed under
 
 This is a Logic Pro template for Spitfire Audio's Abbey Road One: Orchestral Foundations sample library. It is similar to the template provided by Spitfire for their BBCSO libraries.
 
-___IMPORTANT:__ All of the instances of the AR1 plugin in this template are loading a user preset which only includes the specific articulations which are used. Each of these presets are included with the template. You just need to copy the 'user' folder into the 'Templates' folder of your copy of AR1. If you have created some of your own presets before, then the 'Template/user' folder already exists in your copy of AR1, so just copy the contents of the 'user' folder into the 'Templates/user' folder._
+___IMPORTANT:__ All of the instances of the AR1 plugin in this template are loading a user preset which only includes the specific articulations which are used. Each of these presets are included with the template. You just need to copy the 'user' folder into the 'Templates' folder of your copy of AR1. If you have created some of your own presets before, then the 'Templates/user' folder already exists in your copy of AR1, so just copy the contents of the 'user' folder into the 'Templates/user' folder._
 
 Each category of instruments (Full orchestra, Strings, Brass, Woodwinds, and Percussion) has its own track stack, with three busses for different types of articulation:
 
