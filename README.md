@@ -2,7 +2,7 @@
 
 Copyright (c) 2021 by Justin L. Franks (justin.franks@gmail.com). Licensed under the GPL V3 license.
 
-___Feb 20,2021 NOTE:__ This template and the patches it uses were created with version 1.0.2 of the Abbey Road One library. It needs some minor updates to be fully compatible with the current version of the library (v1.0.7). This should be done in the next few days._
+___Feb 20,2021 NOTE:__ This template and the patches it uses were created with version 1.0.2 of the Abbey Road One library. It needs some minor updates to be fully compatible with the current version of the library (v1.0.7). It will be updated soon._
 
 ## Overview ##
 
